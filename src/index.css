@@ -85,5 +85,6 @@ code {
 .btn{
   background: none;
   border: none;
+  cursor:pointer;
 }
 
